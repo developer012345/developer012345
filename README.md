@@ -1,2 +1,2 @@
-👋 Hi, I’m @developer012345
+👋 Hi there
 I front-end React developer
