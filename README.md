@@ -1,2 +1,7 @@
-👋 Hi there
-I front-end React developer
+Header
+
+About me
+
+Tools
+
+Follow Me
